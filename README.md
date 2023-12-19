@@ -6,10 +6,10 @@ This tutorial has introduced the essential concepts of the Flask Python framewor
 
 ### For windows
 
-`$env:FLASK_APP=app`
+`$env:FLASK_APP=app`  
 `flask run`
 
 ### Linux
 
-`export FLASK_APP=app`
+`export FLASK_APP=app`    
 `flask run`
